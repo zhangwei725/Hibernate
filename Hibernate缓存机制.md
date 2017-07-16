@@ -254,8 +254,8 @@ Hibernate的以下方法使用二级缓存
         <hibernate-configuration>
             <session-factory>
                 <!-- 数据库连接相关 -->
-                <property name="hibernate.connection.url">com.mysql.jdbc.Driver</property>
-                <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
+                <property name="hibernate.connection.url">jdbc:mysql:///scott</property>
+                <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
                 <property name="hibernate.connection.username">root</property>
                 <property name="hibernate.connection.password">root</property>
                 <!-- 最大连接数 -->
