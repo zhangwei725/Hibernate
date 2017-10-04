@@ -62,12 +62,12 @@
 
 #### 4.4、其它
 
-> Apache OJB （[http://db.apache.org/ojb/）](http://db.apache.org/ojb/）)   
-> Cayenne （[http://objectstyle.org/cayenne/）](http://objectstyle.org/cayenne/）)   
-> Jaxor （[http://jaxor.sourceforge.NET）](http://jaxor.sourceforge.NET）)   
-> jRelationalFramework （[http://ijf.sourceforge.net）](http://ijf.sourceforge.net）)   
-> mirage （[http://itor.cq2.org/en/oss/mirage/toon）](http://itor.cq2.org/en/oss/mirage/toon）)   
-> SMYLE （[http://www.drjava.de/smyle）](http://www.drjava.de/smyle）)   
+> Apache OJB （[http://db.apache.org/ojb/）](http://db.apache.org/ojb/）)  
+> Cayenne （[http://objectstyle.org/cayenne/）](http://objectstyle.org/cayenne/）)  
+> Jaxor （[http://jaxor.sourceforge.NET）](http://jaxor.sourceforge.NET）)  
+> jRelationalFramework （[http://ijf.sourceforge.net）](http://ijf.sourceforge.net）)  
+> mirage （[http://itor.cq2.org/en/oss/mirage/toon）](http://itor.cq2.org/en/oss/mirage/toon）)  
+> SMYLE （[http://www.drjava.de/smyle）](http://www.drjava.de/smyle）)  
 > EclipseLink （[http://www.eclipse.org/eclipselink/）](http://www.eclipse.org/eclipselink/）)
 
 #### 4.5、总结
