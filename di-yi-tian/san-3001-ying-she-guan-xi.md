@@ -516,15 +516,10 @@
      User user = new User();
      user.setUsername("zhangwei");
      user.setPassword("123456");
-     session.save(user);
-   2.Sql语句
-     Hibernate: 
-         insert 
-         into
-             TB_USER
-             (USERNAME, PASSWORD, USER_ID) 
-         values
-             (?, ?, ?)
+     for (int i = 0; i < 10; i++) {
+         Order   order  = new Order(new BigDecimal(50.00);
+         order.setUser(user);
+     }
    ```
 
    ```
@@ -1129,7 +1124,7 @@ CREATE TABLE TB_ROLE_PRIVILEGE(              #角色_权限中间表
    transaction.commit();
    ```
 
-  
+
 
 ### 2.6.3.4、多对多时用两个一对多来处理
 
